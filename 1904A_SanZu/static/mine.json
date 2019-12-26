@@ -1,0 +1,20 @@
+{
+    "mine":[
+        {"img":"/static/img/img01.jpg",
+        "img1":"/static/img/img02.jpg",
+        "img2":"/static/img/img05.jpg",
+         "p":"请输入手机号",
+         "but":"获取验证码",
+         "img3":"/static/img/img06.jpg",
+         "pop":"请输入手机号",
+         "butn":"登录",
+         "li":"*未注册的手机号将被注册",
+         "li1":"密码登录",
+         "span":"第三方登录",
+         "img4":"/static/img/img03.jpg",
+         "img5":"/static/img/img04.jpg",
+         "i":"微信登录",
+         "i1":"微信登录"
+     }]
+    
+}

@@ -1,0 +1,13 @@
+{
+    "nian": ["初一","初二","初三","高一","高二","小学一年级"],
+    "xue": ["语文","数学","英语","历史","地理","物理","化学"],
+    "ke": ["全部","大班课","小班课","公开课","点播课","面授课","音频课","系统课","图文课","会员课"],
+    "teacher":[
+      {"name":"黄老师课堂","time":"12月14日 08:00 ~ 12月14日 20:00","shi":"共1课时","head":"https://baijiayun-wangxiao.oss-cn-beijing.aliyuncs.com/uploads/avatar.jpg","names":"黄杰锋","people":"4人已报名","money":"100.00"},
+      {"name":"黄老师课堂","time":"12月14日 08:00 ~ 12月14日 20:00","shi":"共1课时","head":"https://baijiayun-wangxiao.oss-cn-beijing.aliyuncs.com/uploads/avatar.jpg","names":"黄杰锋","people":"4人已报名","money":"100.00"},
+      {"name":"黄老师课堂","time":"12月14日 08:00 ~ 12月14日 20:00","shi":"共1课时","head":"https://baijiayun-wangxiao.oss-cn-beijing.aliyuncs.com/uploads/avatar.jpg","names":"黄杰锋","people":"4人已报名","money":"100.00"},
+      {"name":"黄老师课堂","time":"12月14日 08:00 ~ 12月14日 20:00","shi":"共1课时","head":"https://baijiayun-wangxiao.oss-cn-beijing.aliyuncs.com/uploads/avatar.jpg","names":"黄杰锋","people":"4人已报名","money":"100.00"},
+      {"name":"黄老师课堂","time":"12月14日 08:00 ~ 12月14日 20:00","shi":"共1课时","head":"https://baijiayun-wangxiao.oss-cn-beijing.aliyuncs.com/uploads/avatar.jpg","names":"黄杰锋","people":"4人已报名","money":"100.00"},
+      {"name":"黄老师课堂","time":"12月14日 08:00 ~ 12月14日 20:00","shi":"共1课时","head":"https://baijiayun-wangxiao.oss-cn-beijing.aliyuncs.com/uploads/avatar.jpg","names":"黄杰锋","people":"4人已报名","money":"100.00"}
+    ]
+}
